@@ -6,9 +6,7 @@
 		<artifactId>e3-parent</artifactId>
 		<version>0.0.1-SNAPSHOT</version>
 	</parent>
-	<groupId>cn.e3mall</groupId>
 	<artifactId>e3-common</artifactId>
-	<version>0.0.1-SNAPSHOT</version>
 	<!-- 工具类项目: 1,抽取工具坐标 2,管理工具类 -->
 	<dependencies>
 		<!-- 时间操作组件 -->
